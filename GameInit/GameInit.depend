@@ -1,0 +1,615 @@
+# depslib dependency file v1.0
+1615670357 source:a:\0002_learning\c++_programming\graphics\gameinit\main.cpp
+	"Game.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\begin_code.h
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\close_code.h
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1616521524 a:\0002_learning\c++_programming\graphics\gameinit\game.h
+	<SDL2/SDL.h>
+	<iostream>
+	"TextureManager.h"
+	"GameObject.h"
+	"SDLGameObject.h"
+	"Player.h"
+	"Enemy.h"
+	<vector>
+	"InputHandler.h"
+	<string>
+	"GameStateMachine.h"
+
+1616742410 source:a:\0002_learning\c++_programming\graphics\gameinit\game.cpp
+	"Game.h"
+	<SDL_image.h>
+	"MenuState.h"
+	"PlayState.h"
+	"GameObjectFactory.h"
+	"MenuButton.h"
+	"GameGraphics.h"
+
+1609621311 a:\0002_learning\c++_programming\graphics\0000_sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1615669627 a:\0002_learning\c++_programming\graphics\gameinit\texturemanager.h
+	<string>
+	<SDL2/SDL.h>
+	<map>
+
+1615669644 source:a:\0002_learning\c++_programming\graphics\gameinit\texturemanager.cpp
+	"TextureManager.h"
+	<SDL_image.h>
+
+1616741585 a:\0002_learning\c++_programming\graphics\gameinit\gameobject.h
+	<string>
+	<SDL2/SDl.h>
+	"TextureManager.h"
+	"LoaderParams.h"
+
+1616742080 a:\0002_learning\c++_programming\graphics\gameinit\player.h
+	"SDLGameObject.h"
+	"LoaderParams.h"
+	"InputHandler.h"
+	"GameObjectFactory.h"
+
+1616742080 source:a:\0002_learning\c++_programming\graphics\gameinit\player.cpp
+	"Player.h"
+	"GameObjectFactory.h"
+
+1613583442 source:a:\0002_learning\c++_programming\graphics\gameinit\gameobject.cpp
+	"GameObject.h"
+
+1616742080 a:\0002_learning\c++_programming\graphics\gameinit\enemy.h
+	"SDLGameObject.h"
+	"LoaderParams.h"
+	"GameObjectFactory.h"
+
+1616742080 source:a:\0002_learning\c++_programming\graphics\gameinit\enemy.cpp
+	"Enemy.h"
+
+1613559942 source:a:\0002_learning\c++_programming\graphics\gameinit\loaderparams.cpp
+
+1616499570 a:\0002_learning\c++_programming\graphics\gameinit\loaderparams.h
+	<string>
+
+1616741585 a:\0002_learning\c++_programming\graphics\gameinit\sdlgameobject.h
+	"LoaderParams.h"
+	"GameObject.h"
+	"Vector2D.h"
+
+1615669683 source:a:\0002_learning\c++_programming\graphics\gameinit\sdlgameobject.cpp
+	"SDLGameObject.h"
+	"Game.h"
+
+1615669826 a:\0002_learning\c++_programming\graphics\gameinit\include\vector2d.h
+	<math.h>
+
+1613634619 source:a:\0002_learning\c++_programming\graphics\gameinit\src\vector2d.cpp
+	"Vector2D.h"
+
+1615669708 a:\0002_learning\c++_programming\graphics\gameinit\include\inputhandler.h
+	<SDL2/SDL.h>
+	<vector>
+	<iostream>
+	"../Game.h"
+
+1615669720 source:a:\0002_learning\c++_programming\graphics\gameinit\src\inputhandler.cpp
+	"InputHandler.h"
+	<iostream>
+
+1616707632 source:a:\0002_learning\c++_programming\graphics\gameinit\menustate.cpp
+	"MenuState.h"
+	"Game.h"
+	"MenuButton.h"
+	"PlayState.h"
+	"StateParser.h"
+
+1616740906 a:\0002_learning\c++_programming\graphics\gameinit\menustate.h
+	"GameState.h"
+	<vector>
+	"GameObject.h"
+
+1616621208 a:\0002_learning\c++_programming\graphics\gameinit\gamestate.h
+	<string>
+	<iostream>
+	<vector>
+
+1615669977 a:\0002_learning\c++_programming\graphics\gameinit\gamestatemachine.h
+	"GameState.h"
+	<vector>
+
+1615670005 a:\0002_learning\c++_programming\graphics\gameinit\playstate.h
+	"GameState.h"
+	"GameObject.h"
+	<vector>
+	"SDLGameObject.h"
+
+1616703942 source:a:\0002_learning\c++_programming\graphics\gameinit\playstate.cpp
+	"PlayState.h"
+	"Game.h"
+	"PauseState.h"
+	"GameOverState.h"
+	"StateParser.h"
+
+1615669991 source:a:\0002_learning\c++_programming\graphics\gameinit\gamestatemachine.cpp
+	"GameStateMachine.h"
+
+1616742080 source:a:\0002_learning\c++_programming\graphics\gameinit\menubutton.cpp
+	"MenuButton.h"
+	"InputHandler.h"
+
+1616742080 a:\0002_learning\c++_programming\graphics\gameinit\menubutton.h
+	"SDLGameObject.h"
+	"GameObjectFactory.h"
+
+1616704255 source:a:\0002_learning\c++_programming\graphics\gameinit\pausestate.cpp
+	"PauseState.h"
+	"Game.h"
+	"MenuState.h"
+	"MenuButton.h"
+	"StateParser.h"
+
+1616702599 a:\0002_learning\c++_programming\graphics\gameinit\pausestate.h
+	"GameObject.h"
+	<vector>
+	"GameState.h"
+	"MenuState.h"
+
+1616742095 source:a:\0002_learning\c++_programming\graphics\gameinit\gamegraphics.cpp
+	"GameGraphics.h"
+
+1616742208 a:\0002_learning\c++_programming\graphics\gameinit\gamegraphics.h
+	"SDLGameObject.h"
+	"GameObjectFactory.h"
+
+1616705180 source:a:\0002_learning\c++_programming\graphics\gameinit\gameoverstate.cpp
+	"GameOverState.h"
+	"Game.h"
+	"MenuState.h"
+	"MenuButton.h"
+	"GameGraphics.h"
+	"PlayState.h"
+	"StateParser.h"
+
+1616703492 a:\0002_learning\c++_programming\graphics\gameinit\gameoverstate.h
+	"GameObject.h"
+	<vector>
+	"GameState.h"
+	"MenuState.h"
+
+1615669826 a:\0002_learning\c++_programming\graphics\gameinit\vector2d.h
+	<math.h>
+
+1615981663 a:\0002_learning\c++_programming\graphics\gameinit\inputhandler.h
+	<SDL2/SDL.h>
+	<vector>
+	<iostream>
+	"Game.h"
+
+1615669720 source:a:\0002_learning\c++_programming\graphics\gameinit\inputhandler.cpp
+	"InputHandler.h"
+	<iostream>
+
+1616499606 a:\0002_learning\c++_programming\graphics\gameinit\gameobjectfactory.h
+	<string>
+	<map>
+	"GameObject.h"
+	<iostream>
+
+1616449562 source:a:\0002_learning\c++_programming\graphics\gameinit\tinystr.cpp
+	"tinystr.h"
+
+1616449562 a:\0002_learning\c++_programming\graphics\gameinit\tinystr.h
+	<assert.h>
+	<string.h>
+
+1616449562 source:a:\0002_learning\c++_programming\graphics\gameinit\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1616449764 a:\0002_learning\c++_programming\graphics\gameinit\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1616449562 source:a:\0002_learning\c++_programming\graphics\gameinit\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1616449562 source:a:\0002_learning\c++_programming\graphics\gameinit\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1616497156 source:a:\0002_learning\c++_programming\graphics\gameinit\gameobjectfactory.cpp
+	"GameObjectFactory.h"
+
+1616743830 source:a:\0002_learning\c++_programming\graphics\gameinit\stateparser.cpp
+	"StateParser.h"
+	<vector>
+	"TextureManager.h"
+	"GameObjectFactory.h"
+	"Game.h"
+	<fstream>
+
+1616704786 a:\0002_learning\c++_programming\graphics\gameinit\stateparser.h
+	<iostream>
+	<vector>
+	"tinyxml.h"
+
