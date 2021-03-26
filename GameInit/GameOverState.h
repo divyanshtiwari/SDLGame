@@ -13,7 +13,7 @@ public:
 
     virtual bool onEnter();
     virtual bool onExit();
-    virtual void setCallbacks(const std::vector<Callback>& callbacks);
+    virtual void setCallbacks(const std::vector<Callback>& callbacks){};
     virtual std::string getStateId() const {return s_gameoverID;}
 
 private:

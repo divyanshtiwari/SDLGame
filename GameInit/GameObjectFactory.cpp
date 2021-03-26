@@ -1,5 +1,7 @@
 
 #include "GameObjectFactory.h"
+GameObjectFactory * GameObjectFactory::s_pInstance = nullptr;
+
 
 bool GameObjectFactory::registerType(std::string typeID, BaseCreator* pCreator)
 {
